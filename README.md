@@ -1,2 +1,2 @@
-# cake
-Cake Shop
+# dandies
+Dandies Clothing Store
